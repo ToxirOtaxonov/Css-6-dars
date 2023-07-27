@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(90deg,#7559e2,blue);
+}
+.soat{
+    margin-left: 300px;
+    width: 800px;
+    height: 700px;
+}
+.text{
+    margin-left: 100px;
+    margin-top: 200px;
+    border: 1px solid;
+    border-radius: 40px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+.text h1{
+    font-size: 50px;
+    color: sandybrown;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.text1 h1{
+    font-size: 50px;
+    color: blue;
+    margin-top: -100px;
+    margin-left: 180px;
+}

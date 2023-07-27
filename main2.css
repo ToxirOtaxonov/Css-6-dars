@@ -1,0 +1,10 @@
+
+.div{
+    margin: 400px 400px auto;
+    width: 800px;
+    height: 800px;
+    border: 1px solid white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.3);
+    background: radial-gradient(red,yellow,#7de29e);
+    transition: all 0.5s ease-in-out;
+}

@@ -1,0 +1,27 @@
+.block{
+    text-align: center;
+    margin: 200px 200px auto;
+    width: 700px;
+    height: 300px;
+    border: 1px solid white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.3);
+    background: linear-gradient(0deg,#7559e2,deepskyblue,red);
+    transition: all 0.5s ease-in-out;
+}
+p{
+    margin-top: 140px;
+}
+.block1{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 200px;
+    width: 700px;
+    height: 300px;
+    border: 1px solid white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.3);
+    background: linear-gradient(90deg,yellow,springgreen,blue,#7559e2);
+    transition: all 0.5s ease-in-out;
+}
+p{
+    margin-top: 140px;
+}
